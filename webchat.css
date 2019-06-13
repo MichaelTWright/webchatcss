@@ -149,7 +149,7 @@ body {
   /* LOGO STYLES */
 
   #logo {
-    width: 250px;
+    width: 400px;
     float: right;
     height: 36px;
     margin-top: -30px;
@@ -159,7 +159,7 @@ body {
   .logo {
     background: url("../chatService/getIcon") no-repeat scroll 0 0px transparent;
     background-size: auto 36px;
-    width: 200px;
+    width: 400px;
     float: right;
     height: 36px;
   }
