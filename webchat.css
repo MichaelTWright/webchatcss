@@ -1,18 +1,13 @@
 
   #logo {
     width: 400px !important;
-    float: right;
-    height: auto;
-    margin-top: -30px;
-    margin-left: -10px;
-    margin-bottom: -50px;
+    height: auto !important;
   }
   .logo {
     background: url("../chatService/getIcon") no-repeat scroll 0 0px transparent;
     background-size: auto 36px;
-    width: 400px;
-    float: right;
-    height: auto;
+    width: 400px !important;
+    height: auto !important;
   }
 
   
